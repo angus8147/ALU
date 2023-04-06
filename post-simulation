@@ -1,3 +1,9 @@
-  ******  transient analysis tnom=  25.000 temp=  27.000 *****
-   pavg=  3.0673E-05  from=  5.2000E-09     to=  1.6100E-07
-   glitch=  1.1954E-09  targ=  3.1279E-08   trig=  3.0083E-08
+1.Pre-Sim和Post-Sim波形正確
+2.SS/1.62V/125℃:  pavg=  2.6016E-05  from=  5.2000E-09     to=  1.6100E-07
+glitch=  4.3382E-09  targ=  3.4422E-08   trig=  3.0083E-08
+3.FF/1.98V/-40℃:   pavg=  2.5083E-05  from=  5.2000E-09     to=  1.6100E-07
+glitch=  9.9646E-10  targ=  3.1080E-08   trig=  3.0083E-08
+4.Pw: 27.6748mW(TT)
+5.佈局面積: 長=52.91μm, 寬=35.52μm, 面積=1879.3632μm^2
+6.電晶體尺寸: PM (W/L) =0.25u/0.18u NM (W/L) = 0.25u/0.18u
+7.完成時間:44hrs
